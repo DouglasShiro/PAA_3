@@ -1,0 +1,15 @@
+Versão GCC:
+Sistema operacional: Ubuntu 15.10 Wily Werewolf
+
+
+Compilação do programa C:
+
+	gcc -Wall substituicao_13_0024902_DOUGLAS.c -o substituicao
+
+Execução programa executável:
+
+	./substituicao a b fn P C
+	
+onde a, b e fn são da relação de recorrência.
+P é o polinômio da complexidade a ser demonstrada.
+C é a complexidade que pode ser O, ? ou ? (grandeo, grandeomega ou teta).
